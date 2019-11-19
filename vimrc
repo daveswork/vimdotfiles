@@ -1,3 +1,4 @@
+"  ln -s ~/.vim/vimrc ~/.vimrc
 let &t_Co=256
 syntax on
 filetype plugin indent on

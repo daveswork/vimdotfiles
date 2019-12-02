@@ -2,7 +2,10 @@
 let &t_Co=256
 syntax on
 filetype plugin indent on
-set tabstop=8
+set encoding=utf-8
+set fileformat=unix
+set textwidth=79
+set tabstop=4
 set expandtab
 set shiftwidth=4
 set softtabstop=4
